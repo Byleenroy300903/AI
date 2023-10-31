@@ -23,7 +23,7 @@ Ensure the CSV files are located in the root directory of the project before run
 
 Running the Code
 Clone the Repository:
-git clone https://github.com/Byleenroy300903/AI_phase-5Submission.git
+git clone https://github.com/Byleenroy300903/FAKE_NEWS_DETECTION_USING_NLP.git
 cd fake-news-detection
 
 
